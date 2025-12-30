@@ -56,8 +56,8 @@ with a strong focus on **computer architecture, ASIC verification, and micro-arc
 
 ### 🔧 Tools & Technologies
 - **Languages**: SystemVerilog, SVA, UVM/UVMF, Python, C/C++  
-- **Simulators/Tools**: Questa, Xcelium, VCS, JasperGold, Git, Make  
-- **Domains**: Design Verification, Computer Architecture, Memory Systems, Low-Power Verification  
+- **Simulators/Tools**: Synopsys VCS, Questa, Cadence Virtuoso, Xcelium, JasperGold, Git, Make  
+- **Domains**: Design Verification, RTL Design, Computer Architecture, Memory Systems, Low-Power Verification  
 
 ---
 
