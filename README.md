@@ -2,7 +2,7 @@
 
 I am a **Design Verification Engineer** with strong experience in **SystemVerilog/UVM–based verification**,  
 **assertion-based verification**, and **coverage-driven closure** for complex digital systems.  
-I am currently pursuing a **Master’s in Computer Engineering at North Carolina State University** (May 2026),  
+I am currently pursuing **Master’s in Computer Engineering at North Carolina State University** (May 2026),  
 with a strong focus on **computer architecture, ASIC verification, and micro-architecture validation**.
 
 ---
