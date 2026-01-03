@@ -57,7 +57,7 @@ with a strong focus on **computer architecture, ASIC Design and verification, pe
 ### 🔧 Tools & Technologies
 - **Languages**: SystemVerilog, SVA, UVM/UVMF, Python, C/C++  
 - **Simulators/Tools**: Synopsys VCS, Questa, Cadence Virtuoso, Xcelium, JasperGold, Git, Make  
-- **Domains**: Design Verification, RTL Design, Computer Architecture, Memory Systems, Low-Power Verification  
+- **Domains**: Design Verification, RTL Design, Computer Architecture, Memory Subsystem, Memory Controller Verification, CPU/GPU Design Verification Low-Power Verification  
 
 ---
 
